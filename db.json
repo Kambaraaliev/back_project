@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "dress",
+      "price": "4000",
+      "descr": "hgjgj",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F05%2Fadidas-gucci-collaboration-collection-fall-2022-pricing-gazelle-clothes-shoes-accessories-1.jpg?q=75&w=800&cbr=1&fit=max",
+      "id": 1
+    },
+    {
+      "title": "shoes",
+      "price": "2000",
+      "des": "Gucci products are made with carefully selected materials. Please handle with care for longer product life.  Protect from direct light, heat and rain. Should it become wet, dry it immediately with a soft cloth Fill shoe with tissue paper to help maintain the shape and absorb humidity, then store in the provided flannel bag and box Clean with a soft, dry cloth or brush",
+      "image": "https://mixnews.lv/wp-content/uploads/2023/04/6/unnamed.jpeg",
+      "id": 2
+    },
+    {
+      "title": "bag",
+      "price": "3100",
+      "des": "Cuir leather Round Interlocking G leather patch Top handle with 8cm drop Shoulder strap with 52cm drop Double zipper closure with Round Interlocking G W17cm x H15cm x D9cm Made in Italy",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/fw22-mnwlook732us-1654546995.jpeg?resize=980:*",
+      "id": 3
+    },
+    {
+      "title": "dress",
+      "price": "4450",
+      "des": "A self-tie bow adds a feminine touch to this ivory crêpe satin shirt, complete with a gathered silhouette. Gucci transcribes its heritage, creativity, and innovation into a plenitude of collections, from staple items to distinctive accessories, from the everyday wardrobe to special occasions.",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F05%2Fadidas-gucci-collaboration-collection-fall-2022-pricing-gazelle-clothes-shoes-accessories-1.jpg?q=75&w=800&cbr=1&fit=max",
+      "id": 4
+    },
+    {
+      "title": "shirt",
+      "price": "2200",
+      "des": "A self-tie bow adds a feminine touch to this ivory crêpe satin shirt, complete with a gathered silhouette. Gucci transcribes its heritage, creativity, and innovation into a plenitude of collections, from staple items to distinctive accessories, from the everyday wardrobe to special occasions.",
+      "image": "https://media.gucci.com/content/PromoComponent_Standard_1264x790/1679331603/PromoComponent_Gucci-Horsebit-Campaign-Mar23-01_001_Default.jpg",
+      "id": 5
+    }
+  ]
+}

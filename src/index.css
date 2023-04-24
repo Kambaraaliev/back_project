@@ -1,0 +1,13 @@
+* {
+  margin: o;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  margin-left: 20px;
+  color: white;
+}
+h2 {
+  background-color: rgb(167, 167, 242);
+}
